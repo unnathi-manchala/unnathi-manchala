@@ -95,7 +95,7 @@ A team project developed for managing bills and maintaining billing records effi
 
 ## Connect With Me
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/unnathi-manchala
 * LinkedIn: https://www.linkedin.com/in/unnathi-manchala/
 
 ---
